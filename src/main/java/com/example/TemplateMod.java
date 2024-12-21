@@ -98,6 +98,7 @@ public class TemplateMod implements ModInitializer {
 						// Nachricht senden
 						player.sendMessage(message, false);
 
+						//fertig
 					}
 
 					// Den Fallschaden vollständig blockieren
